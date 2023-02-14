@@ -1,2 +1,2 @@
 # ignore bootstrap dependency
-*.dep\css
+*.dep/css
